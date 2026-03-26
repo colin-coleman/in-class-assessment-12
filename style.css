@@ -84,6 +84,7 @@ section {
       flex: 1 20px;
   padding-top: 30px;
   color: white;
+    text-align: center;
 }
 
 .coyote {
@@ -93,6 +94,7 @@ section {
       flex: 1 20px;
   padding-top: 30px;
   color: white;
+    text-align: center;
 }
 
 .moth {
@@ -102,6 +104,7 @@ section {
       flex: 1 20px;
   padding-top: 30px;
   color: white;
+    text-align: center;
 }
 
 .owl {
@@ -111,4 +114,5 @@ section {
       flex: 1 20px;
   padding-top: 30px;
   color: white;
+    text-align: center;
 }
