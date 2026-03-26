@@ -151,7 +151,7 @@ section {
 footer {
   width: 100%;
   height: 300px;
-  background-color: black;
+  background-color: #7f5af0;
   color: white;
   margin-top: 80px;
   padding-top: 50px;
@@ -165,11 +165,11 @@ footer a {
 }
 
 footer a:hover {
-  color: lightblue;
+  color: #2cb67d;
   text-decoration: underline;
 }
 
-.footer-content {
+.content {
   width: 75vw;
   margin: 0 auto;
   display: flex;
@@ -177,7 +177,7 @@ footer a:hover {
   align-items: flex-start;
 }
 
-.footer-links {
+.links {
   width: 250px;
   height: 150px;
   display: flex;
