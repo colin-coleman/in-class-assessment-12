@@ -212,9 +212,10 @@ footer a:hover {
    display: flex;  
 }
 
-copyright {
+.copyright {
   font-size: 16px;
   text-align: right;
   color: lightgrey;
   display: flex;
+  margin: 10px;
 }
