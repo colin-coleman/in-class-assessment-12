@@ -69,24 +69,46 @@ section {
   width: 100%;
   display: flex;
   font-size: 24px;
-  text-align: center;
-  flex: 1 20px;
-  padding-top: 30px;
-  color: white;
+  
+}
+
+.team h2{
+  font-size: 24px;
+  margin: 0 auto;  
 }
 
 .bat {
   background-image: url("https://static.vecteezy.com/system/resources/previews/067/220/278/non_2x/bat-hanging-upside-down-on-transparent-background-free-png.png");
+     background-size: cover;
+  background-position: center;
+      flex: 1 20px;
+  padding-top: 30px;
+  color: white;
 }
 
 .coyote {
   background-image: url("https://static.vecteezy.com/system/resources/previews/053/648/696/non_2x/a-coyote-sitting-on-a-transparent-background-png.png");
+   background-size: cover;
+  background-position: center;
+      flex: 1 20px;
+  padding-top: 30px;
+  color: white;
 }
 
 .moth {
   background-image: url("https://png.pngtree.com/png-clipart/20240929/original/pngtree-luna-moth-clipart-on-transparent-background-png-image_16118405.png");
+     background-size: cover;
+  background-position: center;
+      flex: 1 20px;
+  padding-top: 30px;
+  color: white;
 }
 
 .owl {
   background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/59a6349b-7a40-4af2-bf9a-3a13ddf42093/dcjn2g4-7d1a4042-372e-41ed-a77b-09f802c0e341.png/v1/fill/w_900,h_1278/owl_on_a_transparent_background__by_zoostock_dcjn2g4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81OWE2MzQ5Yi03YTQwLTRhZjItYmY5YS0zYTEzZGRmNDIwOTMvZGNqbjJnNC03ZDFhNDA0Mi0zNzJlLTQxZWQtYTc3Yi0wOWY4MDJjMGUzNDEucG5nIiwiaGVpZ2h0IjoiPD0xMjc4Iiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiIvd20vNTlhNjM0OWItN2E0MC00YWYyLWJmOWEtM2ExM2RkZjQyMDkzL3pvb3N0b2NrLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.QwlciLMGz3ZiQTMxIFQ6ORhQFupcfDHkWVXKUlY6BqY");
+     background-size: cover;
+  background-position: center;
+      flex: 1 20px;
+  padding-top: 30px;
+  color: white;
 }
