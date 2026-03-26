@@ -121,18 +121,29 @@ section {
     text-align: center;
 }
 
-.work {
+.projects {
   display: flex;
   justify-content: space-between;
-     font-size: 24px;
+}
+
+.work h2 {
+  text-align: right;
 }
 
 .container {
+  width: 100%;
+}
+
+.image {
+  height: 275px;
+}
+
+.container p {
   font-size: 32px;
   font-style: italic;
-  color: white;
+  color: #fffffe;
   position: relative;
-    top: -45px;
+  top: -45px;
   height: 15%;
 }
 
@@ -142,10 +153,12 @@ section {
 
 .second{
   background-image: url("https://plunketts.net/uploads/permanent/7d422866a26a205fb266d68af2e63165.jpg");
+    background-size: contain;
 }
 
 .third{
   background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/31/Night_Photography.jpg");
+     background-size: contain;
 }
 
 footer {
