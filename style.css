@@ -202,3 +202,19 @@ footer a:hover {
   justify-content: space-between;
   flex-wrap: wrap;
 }
+
+.fbutton {
+  font-size: 12px;
+ padding: 12px 6px;
+  border-radius: 1.5rem;
+  color: black;
+  background: white;
+   display: flex;  
+}
+
+copyright {
+  font-size: 16px;
+  text-align: right;
+  color: lightgrey;
+  display: flex;
+}
