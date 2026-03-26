@@ -79,8 +79,9 @@ section {
 
 .bat {
   background-image: url("https://static.vecteezy.com/system/resources/previews/067/220/278/non_2x/bat-hanging-upside-down-on-transparent-background-free-png.png");
-     background-size: cover;
+     background-size: contain;
   background-position: center;
+    background-repeat: no-repeat;
       flex: 1 20px;
   padding-top: 30px;
   color: white;
@@ -89,8 +90,9 @@ section {
 
 .coyote {
   background-image: url("https://www.pngarts.com/files/16/Coyote-Transparent.png");
-   background-size: cover;
+   background-size: contain;
   background-position: center;
+    background-repeat: no-repeat;
       flex: 1 20px;
   padding-top: 30px;
   color: white;
@@ -98,9 +100,10 @@ section {
 }
 
 .moth {
-  background-image: url("https://www.pngfind.com/pngs/m/292-2929046_moon-moths-luna-moth-hd-png-download.png");
-     background-size: cover;
+  background-image: url("https://d2bzx2vuetkzse.cloudfront.net/fit-in/0x450/unshoppable_producs/611495a9-2229-4148-8f78-73c4e8da5c02.png");
+     background-size: contain;
   background-position: center;
+    background-repeat: no-repeat;
       flex: 1 20px;
   padding-top: 30px;
   color: white;
@@ -109,8 +112,9 @@ section {
 
 .owl {
   background-image: url("https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/59a6349b-7a40-4af2-bf9a-3a13ddf42093/dcjn2g4-7d1a4042-372e-41ed-a77b-09f802c0e341.png/v1/fill/w_900,h_1278/owl_on_a_transparent_background__by_zoostock_dcjn2g4-fullview.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi81OWE2MzQ5Yi03YTQwLTRhZjItYmY5YS0zYTEzZGRmNDIwOTMvZGNqbjJnNC03ZDFhNDA0Mi0zNzJlLTQxZWQtYTc3Yi0wOWY4MDJjMGUzNDEucG5nIiwiaGVpZ2h0IjoiPD0xMjc4Iiwid2lkdGgiOiI8PTkwMCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS53YXRlcm1hcmsiXSwid21rIjp7InBhdGgiOiIvd20vNTlhNjM0OWItN2E0MC00YWYyLWJmOWEtM2ExM2RkZjQyMDkzL3pvb3N0b2NrLTQucG5nIiwib3BhY2l0eSI6OTUsInByb3BvcnRpb25zIjowLjQ1LCJncmF2aXR5IjoiY2VudGVyIn19.QwlciLMGz3ZiQTMxIFQ6ORhQFupcfDHkWVXKUlY6BqY");
-     background-size: cover;
+     background-size: contain;
   background-position: center;
+    background-repeat: no-repeat;
       flex: 1 20px;
   padding-top: 30px;
   color: white;
