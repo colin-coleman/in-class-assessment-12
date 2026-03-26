@@ -86,6 +86,8 @@ section {
   padding-top: 30px;
   color: white;
     text-align: center;
+  background-color: white;
+  color: black;
 }
 
 .coyote {
@@ -97,6 +99,7 @@ section {
   padding-top: 30px;
   color: white;
     text-align: center;
+  background-color: #72757e;
 }
 
 .moth {
@@ -119,6 +122,7 @@ section {
   padding-top: 30px;
   color: white;
     text-align: center;
+    background-color: #72757e;
 }
 
 .projects {
