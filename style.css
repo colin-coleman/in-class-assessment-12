@@ -120,3 +120,31 @@ section {
   color: white;
     text-align: center;
 }
+
+.work {
+  display: flex;
+  justify-content: space-between;
+     font-size: 24px;
+}
+
+.container {
+  font-size: 32px;
+  font-style: italic;
+  color: white;
+  position: relative;
+    top: -45px;
+  height: 15%;
+}
+
+.first{
+  background-image: url("https://t4.ftcdn.net/jpg/02/96/21/41/360_F_296214127_8uC9vS6ig4gbaaKSQ9vLi6dYL7l9pmSo.jpg");
+}
+
+.second{
+  background-image: url("https://plunketts.net/uploads/permanent/7d422866a26a205fb266d68af2e63165.jpg");
+}
+
+.third{
+  background-image: url("https://upload.wikimedia.org/wikipedia/commons/3/31/Night_Photography.jpg");
+}
+
